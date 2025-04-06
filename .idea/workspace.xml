@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da2e752f-ac40-4984-848b-87cb93762659" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heredoc-Nowdoc.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
       <updated>1743853335450</updated>
       <workItem from="1743853336811" duration="3330000" />
       <workItem from="1743926197870" duration="1055000" />
-      <workItem from="1743933180290" duration="3693000" />
+      <workItem from="1743933180290" duration="4016000" />
     </task>
     <servers />
   </component>
